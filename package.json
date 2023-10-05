@@ -1,0 +1,18 @@
+{
+    "name": "ugh",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "rollup -cw"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.23.0",
+        "@babel/preset-env": "^7.22.20",
+        "@rollup/plugin-babel": "^6.0.4",
+        "rollup": "^2.79.1"
+    }
+}
